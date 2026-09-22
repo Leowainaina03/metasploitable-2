@@ -1,5 +1,5 @@
 # metasploitable-2
-In this project I will scanning metasploitable 2 and finding its open ports and how to exploit them
+In this project I be will scanning metasploitable 2 and finding its open ports and how to exploit them
 
 # tools
 nmap
